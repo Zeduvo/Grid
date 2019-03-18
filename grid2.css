@@ -1,0 +1,30 @@
+header{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: brown;
+}
+#menu{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: yellow;
+}
+#content{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: green;
+}
+#ad{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: yellow;
+}
+footer{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: brown;
+}
